@@ -16,8 +16,7 @@ For the time period I had to right the paper, only initial tests could be ran to
 Although the results may not be very interesting, if built off of, this simulation may show promising results. When designing the initial simulation, 3 separate components for the structure of entities were chosen so that the structure could evolve.
 
 ![simulationgif](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/489038f9-5d80-4193-96fd-ef0f170abd7b)
-
-![totalentitiesexperiment1run3](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/37717c69-0e17-45e6-aaf8-569c9af8d738)
+![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/averagebonelengthexperiment1run3.png)
 ![averagebonelengthexperiment1run3](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/c9d9496e-0f4e-42b2-ae1f-62db60676f69)
 ![averagetimescaleexperiment1run3](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/3b096757-4787-4f97-944d-105b54af48bb)
 ![averagemuscleforceexperiment1run3](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/0ca48e2d-ceea-4c73-b05b-a6e201d20490)
