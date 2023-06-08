@@ -3,6 +3,7 @@ Ap research is a course where each student choices a topic and spends the entire
 Open ended evolution(OEE) is a term coined to generally describe how evolutionary processes like biological evolution seem to never end, constantly displaying increases in complexity, novelty, and diversity.
 
 This study came from early computer simulation experiments which were working with evolution and ecological dynamics. A common occurrence was that even if the author's were intentionally trying to make the simulation continuously evolve, each simulation would reach a state of stasis where nothing discernibly novel would evolve.
+
 ![image](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/e7f0ef67-8366-411b-a7b6-480fba67860f)
 
 Research into OEE has produced theories and frameworks to hypothesize how an open-ended simulation can be built. Although not the only area of OEE research, it is promising as it brings progress to building an OEE simulation, however other areas are important like coming up with better definitions and tools to identify OEE.
@@ -13,7 +14,8 @@ The simulation was coded in Unity due to its powerful physics engine. For the de
 
 For the time period I had to right the paper, only initial tests could be ran to get an understanding of how the simulation behaved. Data was collected based on population statistics and the evolve abe properties. Some interesting dynamics were seen which have not been seen in prior simulations, like boom and bust cycles. The trends in the graphs show that evolution is occurring, however the population will reach a state of stasis once there is not enough room for the population to grow.
 Although the results may not be very interesting, if built off of, this simulation may show promising results. When designing the initial simulation, 3 separate components for the structure of entities were chosen so that the structure could evolve.
-![image](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/3c118a5e-f1aa-4136-bab6-993580ea3080)
+
+![simulationgif](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/489038f9-5d80-4193-96fd-ef0f170abd7b)
 
 ![totalentitiesexperiment1run3](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/37717c69-0e17-45e6-aaf8-569c9af8d738)
 ![averagebonelengthexperiment1run3](https://github.com/nathan-cain15/ap-research-proj/assets/62317727/c9d9496e-0f4e-42b2-ae1f-62db60676f69)
