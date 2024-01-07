@@ -3,6 +3,7 @@ Open ended evolution(OEE) is a term coined to generally describe how evolutionar
 OEE emerged from early computer simulation experiments which were working with evolution and ecological dynamics. A common occurrence was that even if the author's were intentionally trying to make the simulation continuously evolve, each simulation would reach a state of stasis where nothing discernibly novel would evolve.
 
 ![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/Karl-Sims.jpg)
+
 Picture from Karl Sim's Evolved Virtual Creatures (1994)
 
 Research into OEE has produced theories and frameworks to hypothesize how an open-ended simulation can be built. Although not the only area of OEE research, it is promising as it brings progress to building an OEE simulation, however other areas are important like coming up with better definitions and tools to identify OEE.
@@ -16,8 +17,9 @@ For the time period I had to write the paper, only initial tests could be ran to
 Although the results may not be very interesting, if built off of, this simulation may show promising results. An example change could be allowing for the evolution of new structural components. From this, new strategies for moving through the environment could develop.
 
 
-Data:
 ![gif](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/simulationgif.gif)
+Results from Experiments
+
 ![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/averagebonelengthexperiment1run3.png)
 ![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/averagetimescaleexperiment1run3.png)
 ![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/totalentitiesexperiment1run3.png)
