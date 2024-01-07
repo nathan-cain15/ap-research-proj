@@ -18,6 +18,7 @@ Although the results may not be very interesting, if built off of, this simulati
 
 
 ![gif](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/simulationgif.gif)
+
 Results from Experiments
 
 ![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/averagebonelengthexperiment1run3.png)
