@@ -4,6 +4,7 @@ OEE emerged from early computer simulation experiments which were working with e
 
 ![image](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/Karl-Sims.jpg)
 
+
 Picture from Karl Sim's Evolved Virtual Creatures (1994)
 
 Research into OEE has produced theories and frameworks to hypothesize how an open-ended simulation can be built. Although not the only area of OEE research, it is promising as it brings progress to building an OEE simulation, however other areas are important like coming up with better definitions and tools to identify OEE.
@@ -18,6 +19,7 @@ Although the results may not be very interesting, if built off of, this simulati
 
 
 ![gif](https://raw.githubusercontent.com/nathan-cain15/ap-research-proj/main/simulationgif.gif)
+
 
 Results from Experiments
 
